@@ -1,0 +1,9 @@
+<div id="firstButton" class="flex justify-center py-2">
+            <button id="" class="text-lg bg-blue-500 px-4 py-1 text-white font-semibold tracking-wider rounded-md hover:bg-blue-600 transition duration-500"  >Send</button>
+        </div>
+
+
+
+          <div id="firstInput"class="flex justify-center items-center">
+               <input type="text" name="" id="" class="mb-5 focus:ring-4 outline-none text-center py-2 px-4 w-80 rounded-xl">
+           </div>
